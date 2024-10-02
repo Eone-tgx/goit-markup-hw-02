@@ -38,6 +38,9 @@ ul {
 .nav-list-item .nav-link:focus {
   color: #404bbf;
 }
+.contact-info {
+  font-style: normal;
+}
 
 .contact-info-link {
   font-size: 16px;
@@ -112,7 +115,7 @@ ul {
   background-color: #fff;
 }
 
-.team-title .member-name {
+.member-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
